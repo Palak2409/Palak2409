@@ -92,15 +92,6 @@ Co-authored research on a Nutritional Quality Score (NQS) framework for ranking 
 
 ---
 
-## 🎯 Currently Working On
-
-- Strengthening Data Structures & Algorithms and problem-solving fundamentals.
-- Improving my JavaScript and frontend development skills.
-- Building practical projects combining software engineering, analytics, and AI.
-- Preparing for software engineering internship opportunities.
-
----
-
 ## 🤝 Let's Connect
 
 I'm always happy to connect with fellow developers, learn from other engineers, and explore interesting projects and opportunities.
